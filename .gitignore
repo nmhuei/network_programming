@@ -1,0 +1,24 @@
+# build files
+*.o
+*.out
+*.exe
+
+# temporary files
+*.tmp
+*.log
+*.swp
+
+# editor
+.vscode/
+.idea/
+
+# system
+.DS_Store
+Thumbs.db
+
+# python
+__pycache__/
+*.pyc
+
+# environment
+.env
